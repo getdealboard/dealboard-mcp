@@ -2,6 +2,11 @@
 
 Track every deal without the spreadsheet mess or CRM overhead.
 
+![Dealboard sales pipeline](assets/dealboard-pipeline.webp)
+
+Dealboard gives humans a clear sales pipeline while AI agents help keep it up
+to date in the background.
+
 Dealboard is the simple, opinionated deal tracker for salespeople, BD teams,
 founders, and small teams. It gives humans one clear sales pipeline with deal
 cards, notes, goals, files, and reporting that works out of the box. The
