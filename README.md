@@ -27,7 +27,7 @@ Authentication uses OAuth 2.1 with PKCE and dynamic client registration.
   this month so far
 - Export shareable report images
 
-## Cursor, Cline, Windsurf, VS Code, and Other MCP Clients
+## ChatGPT, Claude, Cursor, Cline, Windsurf, VS Code, and Other MCP Clients
 
 Use the hosted remote MCP server:
 
@@ -42,6 +42,10 @@ Use the hosted remote MCP server:
 ```
 
 If your client asks for transport, choose Streamable HTTP.
+
+Dealboard is built for MCP-compatible AI clients and app ecosystems including
+ChatGPT, Claude, Cursor, Cline, Windsurf, VS Code, OpenAI Codex, and other
+agents that support hosted remote MCP servers.
 
 ## xAI / Grok
 
